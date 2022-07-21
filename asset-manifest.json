@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.0e81414d.css",
+    "main.js": "/memory-card/static/js/main.cf5b9d26.js",
+    "static/media/pokemon_hollow-webfont.woff": "/memory-card/static/media/pokemon_hollow-webfont.f9f1dc3631cb4263baaa.woff",
+    "static/media/pokemon_hollow-webfont.woff2": "/memory-card/static/media/pokemon_hollow-webfont.b463e6647557b8da43e7.woff2",
+    "static/media/pokemon_solid-webfont.woff": "/memory-card/static/media/pokemon_solid-webfont.4d5a5e28bd80ee903703.woff",
+    "static/media/pokemon_solid-webfont.woff2": "/memory-card/static/media/pokemon_solid-webfont.8ddba49b414059ccf1f0.woff2",
+    "index.html": "/memory-card/index.html",
+    "main.0e81414d.css.map": "/memory-card/static/css/main.0e81414d.css.map",
+    "main.cf5b9d26.js.map": "/memory-card/static/js/main.cf5b9d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e81414d.css",
+    "static/js/main.cf5b9d26.js"
+  ]
+}
